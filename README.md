@@ -1,6 +1,6 @@
 # Network Intrusion Detection
 
-This is my network intrusion detection project, one of my first real projects. I wanted to see if I could train a model to tell normal network traffic apart from attacks, using real data that security people actually study.
+This is my network intrusion detection project. I wanted to see if I could train a model to tell normal network traffic apart from attacks, using real data that security people actually study.
 
 It uses the NSL KDD dataset, which is a well known benchmark for this kind of task. Each row is one network connection described by 41 features, and the job is to flag the bad ones.
 
