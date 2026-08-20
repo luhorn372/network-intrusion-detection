@@ -1,7 +1,3 @@
-# Network Intrusion Detection
-# This trains a model to tell normal network traffic from attacks.
-# It uses the NSL KDD dataset, which is a common dataset for this kind of task.
-
 from pathlib import Path
 
 import pandas as pd
