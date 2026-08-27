@@ -31,7 +31,6 @@ The dataset is already included, so you do not need to download anything.
 
 ```
 pip install -r requirements.txt
-cd src
 python intrusion_detection.py
 ```
 
